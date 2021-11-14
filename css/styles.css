@@ -318,12 +318,10 @@ body {
   flex-basis: calc((100% - 90px) / 3);
 }
 .gallery-caption {
-  padding-top: 20px;
-  padding-left: 24px;
+  padding: 20px 24px;
   border-left: 1px solid #eeeeee;
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
-  padding-bottom: 20px;
 }
 .gallery-title {
   margin-bottom: 4px;
